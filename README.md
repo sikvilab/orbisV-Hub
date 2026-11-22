@@ -4,6 +4,7 @@
 ![Version](https://img.shields.io/badge/version-0.1-blue)
 ![Status](https://img.shields.io/badge/status-working-green)
 ![Key](https://img.shields.io/badge/key-not_required-brightgreen)
+<a href="https://roscripts.io/s/orbisv-hub"><img src="https://roscripts.io/badge/orbisv-hub.svg" alt="OrbisV Hub on RoScripts" height="20"></a>
 
 ## About
 **orbisV Hub** is a universal script hub designed to be lightweight and stable. It doesn't rely on dangerous `hookmetamethod` exploits, making it less likely to crash your game. It uses safe, surgical hooks (`hookfunction` and `getconnections`) to provide features across almost any Roblox game.
@@ -34,4 +35,4 @@ Built with [WindUI](https://github.com/Footagesus/WindUI) for a clean and modern
 - **Reset Character**
 
 ```lua
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ТВОЙ_НИК/orbisV-Hub/main/orbisV.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/sikvilab/orbisV-Hub/refs/heads/main/main/hub.lua"))()
